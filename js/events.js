@@ -39,7 +39,3 @@ frameIt();
 pressIt();
 submitIt();
 
-
-
-
-
